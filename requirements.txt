@@ -1,0 +1,14 @@
+# Snake Game Collection - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Hand Tracking Utilities
+cvzone>=1.5.0
+
+# MediaPipe for Hand Detection
+mediapipe>=0.8.0
+
+# Numerical Computing
+numpy>=1.21.0
