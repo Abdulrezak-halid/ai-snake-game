@@ -138,7 +138,7 @@ The traditional snake game everyone knows and loves.
 | Restart | Press `R` |
 | Quit | Press `Q` |
 
-### Screenshot
+### 📸 Screenshot
 <img width="963" height="618" alt="Screenshot from 2025-12-14 15-17-40" src="https://github.com/user-attachments/assets/f8fc1f6a-55eb-4ef1-8b1c-a15f6883dd99" />
 
 ### Classic Snake Game
@@ -150,7 +150,7 @@ The traditional snake game everyone knows and loves.
 | Move Right | `D` or `→` |
 | Pause | `P` or `Space` |
 
-### Screenshot
+### 📸 Screenshot
 <img width="604" height="639" alt="Screenshot from 2025-12-14 15-17-08" src="https://github.com/user-attachments/assets/ba754853-d556-4389-8431-299e4d4c0e0a" />
 
 ## 📦 Requirements
