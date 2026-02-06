@@ -6,7 +6,7 @@ A collection of two snake games built with Python - featuring both a **hand-trac
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Demo](#-demo)
@@ -22,7 +22,7 @@ A collection of two snake games built with Python - featuring both a **hand-trac
 - [Author](#-author)
 - [License](#-license)
 
-## ✨ Features
+## Features
 
 ### AI Snake Game
 - 🖐️ **Hand Tracking Control** - Control the snake with your index finger using webcam
@@ -38,7 +38,7 @@ A collection of two snake games built with Python - featuring both a **hand-trac
 - 🎮 **Progressive Difficulty** - Speed increases as you grow
 - 🖼️ **Clean Graphics** - Modern color scheme with Turtle graphics
 
-## 🎬 Demo
+## Demo
 
 ### AI Snake Game
 Control the snake by moving your hand in front of your webcam. Your index finger becomes the snake's head!
@@ -46,7 +46,7 @@ Control the snake by moving your hand in front of your webcam. Your index finger
 ### Classic Snake Game
 Navigate the snake using keyboard controls to eat food and grow longer without hitting the walls or yourself.
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -66,7 +66,7 @@ cd ai-snake-game
 pip install -r requirements.txt
 ```
 
-## 📖 Usage
+## Usage
 
 
 ### Run AI Snake Game (Hand Tracking)
@@ -81,22 +81,7 @@ python src/ai_snake_game.py
 python src/classic_snake_game.py
 ```
 
-## 📁 Project Structure
-
-```
-AI_Snake_Game/
-├── src/
-│   ├── __init__.py           # Package initialization
-│   ├── ai_snake_game.py      # Hand tracking snake game
-│   └── classic_snake_game.py # Keyboard controlled snake game
-├── assets/
-│   └── apple.png             # Food image for AI game
-├── requirements.txt          # Python dependencies
-├── README.md                 # This file
-└── LICENSE                   # MIT License
-```
-
-## 🎮 Games
+## Games
 
 ### AI Snake Game - Hand Tracking Edition
 
@@ -129,7 +114,7 @@ The traditional snake game everyone knows and loves.
 - Python Turtle graphics
 - Built-in Python libraries only
 
-## 🎯 Controls
+## Controls
 
 ### AI Snake Game
 | Action | Control |
@@ -153,7 +138,7 @@ The traditional snake game everyone knows and loves.
 ### 📸 Screenshot
 <img width="604" height="639" alt="Screenshot from 2025-12-14 15-17-08" src="https://github.com/user-attachments/assets/ba754853-d556-4389-8431-299e4d4c0e0a" />
 
-## 📦 Requirements
+## Requirements
 
 ```
 opencv-python>=4.5.0
@@ -164,12 +149,12 @@ numpy>=1.21.0
 
 For the classic game, only Python's built-in `turtle` module is required.
 
-## 👤 Author
+## Author
 
 **ABD ALRAZAK KHALED**
 - Project: Mathematics Software Final Project
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
