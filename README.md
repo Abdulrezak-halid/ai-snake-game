@@ -25,18 +25,18 @@ A collection of two snake games built with Python - featuring both a **hand-trac
 ## Features
 
 ### AI Snake Game
-- 🖐️ **Hand Tracking Control** - Control the snake with your index finger using webcam
-- 🎯 **Real-time Computer Vision** - Powered by MediaPipe and OpenCV
-- 🔄 **Game Over & Restart** - Full game cycle with restart capability
-- 📊 **Score Tracking** - Current score and high score display
-- 🎨 **Modern UI** - Gradient snake colors and smooth graphics
+-  **Hand Tracking Control** - Control the snake with your index finger using webcam
+-  **Real-time Computer Vision** - Powered by MediaPipe and OpenCV
+-  **Game Over & Restart** - Full game cycle with restart capability
+-  **Score Tracking** - Current score and high score display
+-  **Modern UI** - Gradient snake colors and smooth graphics
 
 ### Classic Snake Game
-- ⌨️ **Keyboard Controls** - WASD or Arrow keys
-- ⏸️ **Pause Feature** - Press P or Space to pause
-- 🏆 **High Score System** - Track your best performance
-- 🎮 **Progressive Difficulty** - Speed increases as you grow
-- 🖼️ **Clean Graphics** - Modern color scheme with Turtle graphics
+-  **Keyboard Controls** - WASD or Arrow keys
+-  **Pause Feature** - Press P or Space to pause
+-  **High Score System** - Track your best performance
+-  **Progressive Difficulty** - Speed increases as you grow
+-  **Clean Graphics** - Modern color scheme with Turtle graphics
 
 ## Demo
 
