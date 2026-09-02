@@ -8,19 +8,19 @@ A collection of two snake games built with Python - featuring both a **hand-trac
 
 ## Table of Contents
 
-- [Features](#-features)
-- [Demo](#-demo)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Games](#-games)
-  - [AI Snake Game](#ai-snake-game---hand-tracking-edition)
-  - [Classic Snake Game](#classic-snake-game)
-- [Controls](#-controls)
-- [Requirements](#-requirements)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [License](#-license)
+- Features
+- Demo
+- Installation
+- Usage
+- Project Structure
+- Games
+  - AI Snake Game
+  - Classic Snake Game
+- Controls
+- Requirements
+- Contributing
+- Author
+- License
 
 ## Features
 
